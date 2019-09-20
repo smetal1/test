@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"provisioning.mongocaches"},{"v":2,"key":{"expireAt":1},"name":"expireAt_1","ns":"provisioning.mongocaches","expireAfterSeconds":0,"background":true}],"uuid":"66416a9a29af4123978b8efc5552870d"}
